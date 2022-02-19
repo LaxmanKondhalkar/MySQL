@@ -1,0 +1,1 @@
+SELECT titles, released_year FROM books;
